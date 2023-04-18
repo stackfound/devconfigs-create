@@ -1,0 +1,9 @@
+{
+      "label": "Hello simple",
+      "type": "shell",
+      "command": "echo Hello, simple world!",
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+}

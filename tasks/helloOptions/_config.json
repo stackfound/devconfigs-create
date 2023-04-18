@@ -1,0 +1,9 @@
+{
+    "label": "Hello with options",
+    "type": "shell",
+    "command": "",
+    "presentation": {
+        "reveal": "always",
+        "panel": "new"
+    }
+}
